@@ -1,6 +1,6 @@
 const axios = require('axios');
 // https://fixer.io/
-const FIXER_API_KEY = '2bb4370e2bee7c3dffd0e96dc54500e0';
+const FIXER_API_KEY = '';
 const FIXER_API = `http://data.fixer.io/api/latest?access_key=${FIXER_API_KEY}`;
 
 // https://restcountries.eu
